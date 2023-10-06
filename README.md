@@ -1,6 +1,6 @@
 # INSCALE-Technical-Assessment-
 
-**1- Introduction:**
+**1. Introduction:**
 
 Automate the online purchase process on the https://www.saucedemo.com/ web application using Python and Selenium.
 
@@ -18,19 +18,20 @@ Click on : https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/tree/
 **4. Getting Started:**
    
 	Install PyCharm 
-	Install python 
-	Install Selenium Open Command   pip install -U selenium 
+	Install Python 
+	Install Selenium by run the following command :  pip install -U selenium 
 
 
 **5. Launch:**
-Afeter finish the setup,
+After finishing the setup,
 - Go to PyTest file
 - Choose Test_Online_Purchases file
 - Right-Click and Run
-- All test cases will be run. ( Reffer to the attachment)
+- All test cases will be run. ( Refer to the attachment)
 ![run test cases](https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/assets/46742041/cd22931e-79f6-42d7-b889-4e1342d1049c)
 
-**6- Generate the report:**
+
+**6. Generate the report:**
 
 The steps you provided outline how to generate an HTML report for your test cases using pytest and the pytest-html plugin. Here's a summary of those steps:
 
@@ -48,19 +49,26 @@ The steps you provided outline how to generate an HTML report for your test case
  - After running the command successfully, you should see a new file called report.html in the same directory where you ran the pytest command.
    
 5- Copy the Path to the Report File:
- - Right-click on the report.html file and select the "Copy Path" option from the context menu.
+ - Right-click on the report.html file and select the "Copy Path" option from the context menu. ( Refer to the attachment)
    
    ![copy reprt path](https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/assets/46742041/5c75ffb2-cd77-41a1-9bcb-2cdba764d006)
    
-6- Open the HTML Report:
+   
+**7- Open the HTML Report:**
 - Open your web browser.
 - Paste the copied path into the browser's address bar and press Enter.
 - The HTML report will be displayed in your browser.
-- OR user can run the report dierct from the terminal refer to the attatchment
+- OR user can run the report direct from the terminal refer to the attachment. ( Refer to the attachment)
   
      ![run the report](https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/assets/46742041/6f8f5995-d4ae-4721-b1de-a2c20ba4bc3d)
   
 - The HTML report gives information of the Environment on which the test is executed. It also contains the information on test Summary and Results.
+  
+8- Here is **a demonstration of automation testing**.( Refer to the attachment)
+
+
+[Automation Demo.zip](https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/files/12830870/Automation.Demo.zip)
+
 
   
 
