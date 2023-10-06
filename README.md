@@ -64,7 +64,7 @@ The steps you provided outline how to generate an HTML report for your test case
   
 - The HTML report gives information of the Environment on which the test is executed. It also contains the information on test Summary and Results.
   
-8- **Demonstration of automation testing**.( Refer to the attachment)
+**8- Demonstration of automation testing**.( Refer to the attachment)
 
 
 [Automation Demo.zip](https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/files/12830870/Automation.Demo.zip)
