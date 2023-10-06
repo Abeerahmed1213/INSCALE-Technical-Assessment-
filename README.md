@@ -31,14 +31,19 @@ Afeter finish the setup,
 ![run test cases](https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/assets/46742041/cd22931e-79f6-42d7-b889-4e1342d1049c)
 
 **6- Generate the report:**
+
 The steps you provided outline how to generate an HTML report for your test cases using pytest and the pytest-html plugin. Here's a summary of those steps:
+
 1- Install pytest-html Plugin:
 - Open your terminal or command prompt.
 - Run the following command to install the pytest-html plugin: pip install pytest-html
+  
 2- Navigate to the Test Directory:
   - User need to navigate to the directory where the Pytest test file "Test_Online_Purchases", This command runs the test cases and generates an HTML report named report.html.
+    
 3- Generate the HTML Report:
  - User need to run the following command to generate the HTML report: pytest --html=report.html
+   
 4- Locate the Report File:
  - After running the command successfully, you should see a new file called report.html in the same directory where you ran the pytest command.
    
@@ -52,7 +57,7 @@ The steps you provided outline how to generate an HTML report for your test case
 - Paste the copied path into the browser's address bar and press Enter.
 - The HTML report will be displayed in your browser.
 - OR user can run the report dierct from the terminal refer to the attatchment
-- 
+  
      ![run the report](https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/assets/46742041/6f8f5995-d4ae-4721-b1de-a2c20ba4bc3d)
   
 - The HTML report gives information of the Environment on which the test is executed. It also contains the information on test Summary and Results.
