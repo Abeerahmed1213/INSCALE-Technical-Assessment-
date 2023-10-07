@@ -1,4 +1,4 @@
-# INSCALE-Technical-Assessment-
+# Online_Purchases
 
 **1. Introduction:**
 
