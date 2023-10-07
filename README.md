@@ -6,7 +6,7 @@ Automate the online purchase process on the https://www.saucedemo.com/ web appli
 
 **2. Repository Access:**
 
-Click on : https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/tree/master
+Click on : [https://github.com/Abeerahmed1213/INSCALE-Technical-Assessment-/tree/master](https://github.com/Abeerahmed1213/Online-Purchases/tree/master)
 
 **3. Technologies:**
 
